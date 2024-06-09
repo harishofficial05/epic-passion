@@ -1,0 +1,351 @@
+/* Variriables */
+:root{
+	--green:#FFD700;
+	--navy: navy;
+	--ash:rgb(156, 97, 77);
+	--white: white;
+}
+/* Import Font */
+@font-face{
+	font-family: Roboto;
+	src: url(../fonts/Roboto/Roboto-Medium.ttf);
+}
+/* Global Settings */
+*{
+	padding: 0;
+	margin: 0;
+	font-family: Roboto;
+	font-size: 14px;
+	font-weight: normal;
+	box-sizing: border-box;
+}
+body{
+	width: 100%;
+	height: 100vh;
+	background-color: var(--ash);
+}
+hr{
+	border: 1px solid rgba(236, 240, 241,0.3);
+}
+.container{
+	width: 100%;
+	margin: 0 auto;
+}
+.active{
+	background-color: var(--ash) !important;
+	color: var(--green) !important;
+}
+/* Header Styling */
+header{
+	height: 220px;
+	background-image: url("../img/other/login.jpg");
+	background-position: center;
+	background-repeat: none;
+	background-size: cover;
+
+}
+header .brand{
+	display: flex;
+	justify-content: space-between;
+	margin: 0px 50px;
+	align-items: center;
+	padding-top: 20px;
+}
+header .logo{
+	width: 280px;
+	height: auto;
+}
+header .logo a{
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+}
+header .logo img{
+	margin-right: 10px;
+	width: 250px;
+}
+header .logo p.big-logo{
+	font-size: 30px;
+	font-weight: bold;
+	color: var(--ash);
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-top: 10px;
+}
+header .logo p.small-logo{
+	font-size: 24px;
+	font-weight: bold;
+	color: var(--green);
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+header .shop-icon{
+	width: 150px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 0 10px;
+}
+header .shop-icon img{
+	cursor: pointer;
+}
+header .dropdown{
+	position: relative;
+	display: inline-block;
+}
+header .dropdown:hover .dropdown-menu{
+	display: block;
+}
+header .dropdown-menu{
+	position: absolute;
+	right: 0;
+	background-color: var(--white);
+	padding: 15px;
+	min-width: 140px;
+	display: none;
+	border-radius: 2px;
+	z-index: 150;
+}
+header .dropdown-menu ul{
+	list-style: none;
+	border: 1px solid rgba(236, 240, 241,0.4);
+}
+header .dropdown-menu ul li{
+	padding: 8px;
+}
+header .dropdown-menu ul li a{
+	color: var(--ash);
+	text-decoration: none;
+}
+header .dropdown-menu ul li a:hover{
+	color: var(--green);
+}
+header .wishlist-item{
+	min-width: 300px;
+}
+header .cart-item{
+	min-width: 450px;
+}
+header .center{
+ text-align: center;
+}
+header .dropdown-menu table{
+	width: 100%;
+	border: 1px solid rgba(236, 240, 241,0.4);
+	border-collapse: collapse;
+}
+header .dropdown-menu table td,
+header .dropdown-menu table th{
+	padding: 5px;
+	text-align: center;
+	font-weight: normal;
+}
+header .dropdown-menu table img{
+	width: 60px;
+}
+header .menu-bar{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 30px;
+	margin: 10px 40px 0px 40px;
+}
+header .menu ul{
+	width: 250px;
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+}
+header .menu ul li a{
+	text-decoration: none;
+	padding: 8px;
+	text-transform: uppercase;
+	margin-bottom: 2px;
+	border-bottom: 1px solid transparent;
+	color: var(--ash);
+	font-weight: bold;
+	transition: 0.5s;
+	border-radius: 20px 20px 0px 0px;
+	color: orange;
+	
+}
+header .menu ul li a:hover{
+	border-bottom: 2px solid var(--ash);
+	padding: 5px 8px;
+	border: 1px dashed var(--ash);
+	border-radius: 20px;
+}
+
+header .search-bar{
+	width: 300px;
+	height: 30px;
+}
+header .form-group{
+	position: relative;
+}
+header .form-group input{
+	width: 100%;
+	height: 28px;
+	position: absolute;
+	right: 5px;
+	border: 0;
+	border-radius: 30px;
+	outline: 0; 
+	padding: 5px 8px;  
+}
+header .form-group img{
+	position: absolute;
+	right: 0px;
+	top: 5px;
+	cursor: pointer;
+}
+/* Content Styling */
+main{
+	/*height: 550px;*/
+	background-color: var(--white);
+	padding: 30px;
+	box-shadow: 0 0 2px #808080;
+}
+main .main-content{
+	display: flex;
+	justify-content: space-between;
+}
+main .main-content h3{
+	background-color: var(--darkStaleGray);
+	color: var(--khaki);
+	text-transform: uppercase;
+	padding: 10px;
+}
+main .sidebar{
+	width: 20%;
+	min-height: 500px;
+	padding: 5px;
+	border: 1px solid rgba(236, 240, 241,0.3);
+}
+main .sidebar ul{
+	list-style: none;
+	padding: 10px;
+}
+main .sidebar ul li{
+	margin-bottom: 5px;
+}
+main .sidebar ul li a{
+	color: var(--darkStaleGray);
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 5px 8px;
+	margin-top: 10px;
+	display: block;
+}
+.active,
+main .sidebar ul li a:hover{
+	background-color: var(--darkStaleGray);
+	color: var(--khaki) !important;
+}
+main .content{
+	width: 78%;
+	padding: 5px;
+	border: 1px solid rgba(236, 240, 241,0.3);
+}
+main .dashboard .content-data{
+	display: grid !important;
+	grid-template-columns: 1fr 1fr !important;
+	grid-row-gap: 50px;
+	grid-column-gap: 15px;
+}
+main .dashboard .content-data .content-detail{
+	width: 100% !important;
+	height: 100%;
+	padding-left: 0px !important;
+}
+main .content .content-data{
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+main .content .content-data .content-form{
+	width: 50%;
+	border-right: 1px solid #eee;
+	padding-right: 10px;
+}
+main .content .content-data .content-detail{
+	width: 49%;
+	height: 100%;
+	padding-left: 10px;
+}
+main h4{
+	display: block;
+	color: var(--darkStaleGray);
+	background-color: var(--khaki);
+	text-transform: uppercase;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+main form .form-group{
+	margin: 10px 0;
+	width: 100%;
+}
+main form label{
+	color: var(--darkStaleGray);
+	display: block;
+	margin-bottom: 6px;
+}
+main form .form-group input,
+main form .form-group select,
+main form .form-group textarea{
+	width: 100%;
+	padding: 8px 5px
+}
+main form input:focus,
+main form select:focus,
+main form textarea:focus{
+	outline: 1px solid var(--darkStaleGray);
+}
+main form .form-inline{
+	display: flex;
+	justify-content: space-between;
+}
+main form .form-inline .form-group{
+	width: 49%;
+}
+main form input[type="submit"]{
+	background-color: var(--khaki);
+	color: var(--darkStaleGray);
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: center;
+	padding: 5px 8px;
+	margin-top: 20px;
+	display: block;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+}
+main form input[type="submit"]:hover{
+	background-color: var(--darkStaleGray);
+	color: var(--khaki);
+}
+main table{
+	width: 100%;
+	border: 1px solid #eee;
+	border-collapse: collapse;
+}
+main table th{
+	text-transform: uppercase;
+}
+main table td, main table th{
+	border: 1px solid #eee;
+	text-align: center;
+	padding: 5px 2px;
+}
+footer{
+	height: 50px;
+	background-color: var(--khaki); 
+}
+footer .footer-bar .copyright-text p{
+	color: var(--darkStaleGray);
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+	font-weight: bold;
+	padding-top: 20px;
+}

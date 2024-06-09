@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta Tags -->
+		<meta charset="UTF-8">
+		<meta name="author" content="Harish">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Title -->
+ 		<title >Epic-Passion</title>
+ 		<!-- Style Sheet -->
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<link rel="icon" type="x-icon" href="./img/icons/online_shopping1.png">
+		<!-- Javascript -->	
+		<script src="./js/script.js"></script>
+		
+  		
+         
+</head>
+<body>
+    <div class="login">
+        <div class="container">
+			<div class="container-login" id="signin" >
+				<form id="form">
+				<div><h1>Sign-Up</h1></div>
+				<div class="input"><input id="username" name="username"  type="text" placeholder="User name "></div>
+				<div class="input"><input id="email" name="email"  type="text" placeholder="E-mail id (or) Phone no"></div>
+				<div class="input"><input id="password" name="password" type="password" placeholder="password" ></div>
+				<div class="terms"><label  for="terms"><input required type="checkbox" name="terms" id="terms"><a href="./terms.html">Terms and Conditions</a></label></div>
+
+				<div class="button"><input type="button" value="Submit" onclick=submit2()></div>
+
+				<div class="reg"><p>Already have an account? <input class="btn" type="button" onclick=signup() value="login"></p></div>
+				</form>
+			</div>
+            <div class="container-login" id="signup" style="display: none;">
+				<form id="form">
+				<div><h1>login</h1></div>
+				<div class="input"><input id="username2" type="text" placeholder="User name " ></div>
+				<div class="input"><input id="password2" type="password" placeholder="password" ></div>
+				<div class="remember-forget"><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></div>
+
+				<div class="button"><input type="button" value="Submit" onclick=submit2()></div>
+
+				<div class="reg"><p>Don't have an Account ?<input class="btn" type="button" onclick=signin() value="Sign-Up"></p></div>
+				</form>
+			</div>
+		</div>
+        
+    </div>
+	
+</body>
+
+</html>

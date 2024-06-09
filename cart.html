@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Meta Tags -->
+   <meta charset="UTF-8">
+   <meta name="author" content="Harish">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!-- Title -->
+	<title>Epic-Passion</title>
+	<!-- Style Sheet -->
+   <link rel="stylesheet" type="text/css" href="css/style.css" />
+   <link rel="icon" type="x-icon" href="./img/icons/online_shopping1.png">	
+   <!-- Javascript -->	
+   <script type="text/javascript" src="js/jquery.min.js"></script>
+   <script src="./js/script.js"></script>
+</head>
+<body>
+
+	<header>
+		<div class="container">
+			<div class="brand">
+				<div class="logo">
+					<a href="index.html">
+						<img src="img/icons/online_shopping.png">
+						
+					</a>
+				</div> <!-- logo -->
+				<div class="shop-icon">
+					<div class="dropdown">
+						<img src="img/icons/account.png">
+						<div class="dropdown-menu">
+							<ul>
+								<li><a href="account.html">My Account</a></li>
+								<li><a href="orders.html">My Orders</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="dropdown">
+						<img src="img/icons/heart.png">
+						<div class="dropdown-menu wishlist-item">
+							<table border="1">
+								<thead>
+									<tr>
+										<th>Image</th>
+										<th>Product Name</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td><img src="img/product/img1.jpg"></td>
+										<td>watch</td>
+									</tr>
+									<tr>
+										<td><img src="img/product/img2.jpg"></td>
+										<td>Blue Jeans</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+					<div class="dropdown">
+						<img src="img/icons/shopping_cart.png">
+						<div class="dropdown-menu cart-item">
+							<table border="1">
+								<thead>
+									<tr>
+										<th>Image</th>
+										<th>Product Name</th>
+										<th class="center">Price</th>
+										<th class="center">Qty.</th>
+										<th class="center">Amount</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td><img src="img/product/img1.jpg"></td>
+										<td>watch</td>
+										<td class="center">1200</td>
+										<td class="center">2</td>
+										<td class="center">2400</td>
+									</tr>
+									<tr>
+										<td><img src="img/product/img2.jpg"></td>
+										<td>Blue Jeans</td>
+										<td class="center">1500</td>
+										<td class="center">2</td>
+										<td class="center">3000</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div> <!-- shop icons -->
+			</div> <!-- brand -->
+
+			<div class="menu-bar">
+				<div class="menu">
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="shop.html">Shop</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="contact.html">Contact</a></li>
+					</ul>
+				</div>
+				<div class="search-bar">
+					
+				</div>
+			</div> <!-- menu -->
+		</div> <!-- container -->
+	</header> <!-- header -->
+
+	<div class="container">
+		<main>
+			<div class="breadcrumb">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li> / </li>
+					<li><a href="shop.html">Shop</a></li>
+					<li> / </li>
+					<li>Cart</li>
+				</ul>
+			</div> <!-- End of Breadcrumb-->
+
+			<h2>Shopping Cart</h2>
+			<div class="cart-page">
+				<div class="cart-items">					
+					<table>
+						<thead>
+							<tr>
+								<th colspan="3">Cart Items</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td style="width: 20%;"><img src="img/product/img1.jpg"></td>
+								<td style="width: 60%;">
+									<h2>Product Title</h2>
+									<p>SS Watch Premium</p>
+									<br>
+									<h3>Price: Rs.1200</h3>
+									<br>
+									<a href="">x</a> Remove
+								</td>
+								<td class="qty" style="width: 15%;">
+									<input type="number" name="cartNumber" id="crtno" value="1"class="cartNumber"  min="1" max="10">
+									<br><br>
+									<h3>Rs. <h3 id="protot">1200</h3></h3>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 20%;"><img src="img/product/img2.jpg"></td>
+								<td style="width: 60%;">
+									<h2>Product Title</h2>
+									<p >Mens Blue Jeans </p>
+									<br>
+									<h3>Price: Rs.1200</h3>
+									<br>
+									<a href="">x</a> Remove
+								</td>
+								<td class="qty" style="width: 15%;">
+									<input type="number" name="cartNumber" class="cartNumber" id="crtno2" value="1" min="1" max="10">
+									<br><br>
+									<h3>Rs. <h3 id="protot2">1200</h3></h3>
+								</td>
+							</tr>
+							<tr>
+								<td style="width: 20%;"><img src="img/product/img3.jpg"></td>
+								<td style="width: 60%;">
+									<h2>Product Title</h2>
+									<p >Titum Watch Brown </p>
+									<br>
+									<h3>Price: Rs.1200</h3>
+									<br>
+									<a href="">x</a> Remove
+								</td>
+								<td class="qty" style="width: 15%;">
+									<input type="number" name="cartNumber" class="cartNumber" id="crtno3" value="1" min="1" max="10">
+									<br><br>
+									<h3>Rs. <h3 id="protot3">1200</h3></h3>
+								</td>
+							</tr>						
+						</tbody>	
+					</table>
+					
+				</div>
+				<div class="cart-summary">
+					<div class="checkout-total">
+						<h3>Cart Summary</h3>
+						<ul>
+							<li>Number of Products x 1<p id="nopro"></p></li>
+							<li>Number of items x 3<p id="noitem"></p></li>
+							<hr>
+							<li>Cart Total <span style="float: right;">Rs. <p id="grndtot">3600</p></span></li>
+							<li><a href="checkout.html">Go to Checkout</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>		
+		</main> <!-- Main Area -->
+	</div>
+
+	<footer>
+		<div class="container">
+			<div class="footer-widget">
+				<div class="widget">
+					<div class="widget-heading">
+						<h3>Important Link</h3>
+					</div>
+					<div class="widget-content">
+						<ul>
+							<li><a href="about.html">About</a></li>
+							<li><a href="contact.html">Contact</a></li>
+							<li><a href="refund.html">Refund Policy</a></li>
+							<li><a href="terms.html">Terms & Conditions</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="widget">
+					<div class="widget-heading">
+						<h3>Information</h3>
+					</div>
+					<div class="widget-content">
+						<ul>
+							<li><a href="account.html">My Account</a></li>
+							<li><a href="orders.html">My Orders</a></li>
+							<li><a href="cart.html">Cart</a></li>
+							<li><a href="checkout.html">Checkout</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="widget">
+					<div class="widget-heading">
+						<h3>Follow us</h3>
+					</div>
+					<div class="widget-content">
+						<div class="follow">
+							<ul>
+								<li><a href=" https://www.facebook.com/epicpassionofficial"><img src="img/icons/facebook.png"></a></li>
+								<li><a href="https://web.whatsapp.com/"><img src="img/icons/twitter.png"></a></li>
+								<li><a href=" https://www.instagram.com/epic_passion_official/?igsh=ejlzOGx1ZTlyNHBl"><img src="img/icons/instagram.png"></a></li>
+							</ul>
+						</div>						
+					</div>
+					<div class="widget-heading">
+						<h3></h3>
+					</div>
+					<div class="widget-content">
+						<div class="subscribe">
+						
+						</div>						
+					</div>
+				</div>
+			</div> <!-- Footer Widget -->
+			<div class="footer-bar">
+				<div class="copyright-text">
+					<p>Copyright 2024 - All Rights Reserved by Epic-Passion</p>
+				</div>
+				<div class="payment-mode">
+					<img src="img/icons/paper_money.png">
+					<img src="img/icons/visa.png">
+					<img src="img/icons/mastercard.png">
+				</div>
+			</div> <!-- Footer Bar -->
+		</div>
+	</footer> <!-- Footer Area -->
+
+</body>
+
+</html>
