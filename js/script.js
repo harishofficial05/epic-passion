@@ -43,7 +43,7 @@ function submit2(){
         if(usernamevalue1===''){
                 alert ('username required');
         }else{
-            alert("Your Login has been successful!!!");
+            alert("Your signup has been successful!!!");
             }
         
         
