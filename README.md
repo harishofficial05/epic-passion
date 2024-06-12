@@ -5,20 +5,20 @@
 
 # Collaborators:
 
-• Harish J: [jharishofficial@gmail.com] (mailto:jharishofficial@gmail.com)
+• Harish J          : [jharishofficial@gmail.com] (mailto:jharishofficial@gmail.com)
 
-• Sivaraman V: [sivaraman7010@gmail.com] (mailto:sivaraman7010@gmail.com)
+• Sivaraman V       : [sivaraman7010@gmail.com] (mailto:sivaraman7010@gmail.com)
 
-• Shadrack Hamesh S: [shadrackhamesh02@gmail.com] (mailto:shadrackhamesh02@gmail.com)
+• Shadrack Hamesh S : [shadrackhamesh02@gmail.com] (mailto:shadrackhamesh02@gmail.com)
 
-• Rakesh R: [rakeshr02072002@gmail.com] (mailto:rakeshr02072002@gmail.com)
+• Rakesh R          : [rakeshr02072002@gmail.com] (mailto:rakeshr02072002@gmail.com)
 
-Description:
+# Description:
 
 The epic-passion project is designed to provide a comprehensive and accessible online shopping platform
 Where users can freely browse and shopping. various of categorize products is their like dresses and electronics items etc. the platforms also incorporate advanced cloud services to ensure seamless performance and scalability.
 
-Technologies used
+# Technologies used
 • Frontend : HTML, CSS, Bootstrap, & Java Script
 
 Cloud services
@@ -52,12 +52,12 @@ Resource Group
 ![Resource Group](https://github.com/harishofficial05/epic-passion/assets/166537641/fe6b6a81-97ed-4bc9-87fa-f7aa0abd53c6)
 
 
-Monitor services
+# Monitor services
 monitor service
 ![monitor service](https://github.com/harishofficial05/epic-passion/assets/166537641/6d7b912a-1efb-4356-910d-9230396b87de)
 
 
-Azure AI Services:
+# Azure AI Services:
 Azure Bot
 ![Azure Bot](https://github.com/harishofficial05/epic-passion/assets/166537641/2f417575-c81b-453c-929f-5c4cf80bb52e)
 Azure Language
