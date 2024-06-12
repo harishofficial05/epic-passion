@@ -43,66 +43,81 @@ Epic-passion is the online shopping website it is used to purchase the consumer 
 # Azure Services screenshots:
 
 Static Web App
-Static Web App
-![Static Web App](https://github.com/harishofficial05/epic-passion/assets/166537641/e5625c90-cb89-49a9-bced-8799dd99b804)
+![static web app](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/a40e5189-740b-42b5-98e2-fdafc789044e)
 
 
 # Resources group
 Resource Group
-![Resource Group](https://github.com/harishofficial05/epic-passion/assets/166537641/fe6b6a81-97ed-4bc9-87fa-f7aa0abd53c6)
+![resource group](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/b00a985b-0395-4df2-8302-c7b2e0f6f07c)
 
+Deployment
+![deployments](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/1844b6e1-553b-414d-8169-4f1e57bcb0ba)
 
-# Monitor services
 monitor service
-![monitor service](https://github.com/harishofficial05/epic-passion/assets/166537641/6d7b912a-1efb-4356-910d-9230396b87de)
+![azure monitor](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/e02dd823-a279-4a09-b803-c3cddbb3a5b7)
+
+![azure search service](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/37e19f1f-1eed-4808-bdbe-b0a83bdf928a)
 
 
 # Azure AI Services:
 Azure Bot
-![Azure Bot](https://github.com/harishofficial05/epic-passion/assets/166537641/2f417575-c81b-453c-929f-5c4cf80bb52e)
+
 Azure Language
-![Azure Language](https://github.com/harishofficial05/epic-passion/assets/166537641/95678740-23e4-401e-bf33-b2b15b280298)
+![azure language](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/a0981aa9-8b35-44c4-8005-3cc40a82365a)
 
 
-Web Page:
-Home page
-Homepage
+# Web Page:
+signup
+![signup](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/ebd92fb6-d9ed-4f8e-b5b8-75909e9a2a3d)
 
-Signup page
-Signup page
+login
+![login](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/a2a7fa64-d97c-47e1-ab7e-b2076bdbadbe)
 
-Login page
-login page
+home page
+![home page](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/b57a3faf-5dbd-46c6-8c8e-a1edd89f89aa)
+![home page2](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/82be770a-b2c9-44db-8bec-ee3fcc70959d)
 
-Shop category
-4
-shoping category
+shop page
+![shop1](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/e0c170cc-e412-423c-ac86-a7f4cb35befc)
 
-About page
-about page
+![white snaekers](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/d3c8f088-9ed6-437c-a790-33d35c867a0e)
 
-Refund Policy
-refund policy
+![formal shoe](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/60769b79-b65a-4092-80a5-9fc2ffbedaab)
+
+contact page
+![contact](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/653dbcc3-2cb8-4f8a-9f0d-13c4e5d5f1cd)
+
+about
+![about](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/7a49f8bd-453e-4139-8df9-13573619583c)
+
+![informations](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/adfb94e6-9d55-49a1-b71a-368f5bf3d1c3)
+
+Refund Policy page
+![refund policy](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/5763ed6b-85a4-406a-b307-4501edd871e8)
 
 Terms & Conditions
-terms   conditions
+![terms  conditions](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/1c3aca92-1130-4cd3-8af3-f84a28822a25)
 
-My Account
-my account
+Account Page
+![account](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/7f848081-357c-4f8d-9c3e-67e5c7a680a9)
 
- My Order
-my order
+MyOrder page
+![order](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/40ae5bef-3ff4-4c8c-947e-83a257b6c191)
 
-Check Out/Place Order
-checkout
+![carts](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/837bdea0-4e5a-4aeb-bfb3-97211d416588)
 
- My Cart
-checkout
+![add to cart](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/b54a9801-04d5-4b7a-a5f5-f8fde1022693)
+
+![place order](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/c750fccc-a663-458b-be5e-0e27e1e27768)
+
+Chat Page
+![chat](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/43344aa5-a504-4ac7-bce9-9c5d6a64f4ad)
 
 Social Media
-insta
+![instagram](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/1556230d-2ae6-4c21-89f7-60542f7ef849)
 
-fb
+![facebook](https://github.com/basudevnayak/ecommerce_shop.github.io/assets/131639539/7c1b7996-5d20-4b0d-a424-3892720cdd38)
+
 
 
 
