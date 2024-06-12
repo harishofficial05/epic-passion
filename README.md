@@ -3,12 +3,14 @@ Demo URL: https://blue-island-0c0789d10.5.azurestaticapps.net/
 Demo Video URL:
 Git hub URL: https://github.com/harishofficial05/epic-passion/settings/access
 Collaborators:
+
 • Harish J: [jharishofficial@gmail.com] (mailto:jharishofficial@gmail.com)
 • Sivaraman V: [sivaraman7010@gmail.com] (mailto:sivaraman7010@gmail.com)
 • Shadrack Hamesh S: [shadrackhamesh02@gmail.com] (mailto:shadrackhamesh02@gmail.com)
 • Rakesh R: [rakeshr02072002@gmail.com] (mailto:rakeshr02072002@gmail.com)
 
 Description:
+
 The epic-passion project is designed to provide a comprehensive and accessible online shopping platform
 Where users can freely browse and shopping. various of categorize products is their like dresses and electronics items etc. the platforms also incorporate advanced cloud services to ensure seamless performance and scalability.
 
