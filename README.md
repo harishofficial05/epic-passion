@@ -1,12 +1,16 @@
-Title: Epic-passion
-Demo URL: https://blue-island-0c0789d10.5.azurestaticapps.net/
-Demo Video URL:
-Git hub URL: https://github.com/harishofficial05/epic-passion/settings/access
-Collaborators:
+# Title: Epic-passion
+# Demo URL: https://blue-island-0c0789d10.5.azurestaticapps.net/
+# Demo Video URL:
+# Git hub URL: https://github.com/harishofficial05/epic-passion/settings/access
+
+# Collaborators:
 
 • Harish J: [jharishofficial@gmail.com] (mailto:jharishofficial@gmail.com)
+
 • Sivaraman V: [sivaraman7010@gmail.com] (mailto:sivaraman7010@gmail.com)
+
 • Shadrack Hamesh S: [shadrackhamesh02@gmail.com] (mailto:shadrackhamesh02@gmail.com)
+
 • Rakesh R: [rakeshr02072002@gmail.com] (mailto:rakeshr02072002@gmail.com)
 
 Description:
@@ -22,22 +26,28 @@ Cloud services
 • Monitor: For tracking and analysing the performance and usage of the application.
 • Ai Services: For enhancing the user experience with features like personalized recommendations and voice search.
 
-Overview:
+# Overview:
+
 Epic-passion is the online shopping website it is used to purchase the consumer goods, electronics, textiles etc.
 
-Contact
+# Contact
+
 • Harish J: [jharishofficial@gmail.com] (mailto:jharishofficial@gmail.com)
+
 • Sivaraman V: [sivaraman7010@gmail.com] (mailto:sivaraman7010@gmail.com)
+
 • Shadrack Hamesh S: [shadrackhamesh02@gmail.com] (mailto:shadrackhamesh02@gmail.com)
+
 • Rakesh R: [rakeshr02072002@gmail.com] (mailto:rakeshr02072002@gmail.com)
 
-Azure Services screenshots:
+# Azure Services screenshots:
+
 Static Web App
 Static Web App
 ![Static Web App](https://github.com/harishofficial05/epic-passion/assets/166537641/e5625c90-cb89-49a9-bced-8799dd99b804)
 
 
-Resources group
+# Resources group
 Resource Group
 ![Resource Group](https://github.com/harishofficial05/epic-passion/assets/166537641/fe6b6a81-97ed-4bc9-87fa-f7aa0abd53c6)
 
