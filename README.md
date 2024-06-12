@@ -1,4 +1,4 @@
-# Title: Epic-passion
+# Title: Epic-Passion
 # Demo URL: https://blue-island-0c0789d10.5.azurestaticapps.net/
 # Demo Video URL:
 # Git hub URL: https://github.com/harishofficial05/epic-passion/settings/access
