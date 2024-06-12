@@ -32,16 +32,25 @@ Contact
 Azure Services screenshots:
 Static Web App
 Static Web App
+![Static Web App](https://github.com/harishofficial05/epic-passion/assets/166537641/e5625c90-cb89-49a9-bced-8799dd99b804)
+
 
 Resources group
 Resource Group
+![Resource Group](https://github.com/harishofficial05/epic-passion/assets/166537641/fe6b6a81-97ed-4bc9-87fa-f7aa0abd53c6)
+
 
 Monitor services
 monitor service
+![monitor service](https://github.com/harishofficial05/epic-passion/assets/166537641/6d7b912a-1efb-4356-910d-9230396b87de)
+
 
 Azure AI Services:
 Azure Bot
+![Azure Bot](https://github.com/harishofficial05/epic-passion/assets/166537641/2f417575-c81b-453c-929f-5c4cf80bb52e)
 Azure Language
+![Azure Language](https://github.com/harishofficial05/epic-passion/assets/166537641/95678740-23e4-401e-bf33-b2b15b280298)
+
 
 Web Page:
 Home page
