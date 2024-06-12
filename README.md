@@ -19,9 +19,9 @@ The epic-passion project is designed to provide a comprehensive and accessible o
 Where users can freely browse and shopping. various of categorize products is their like dresses and electronics items etc. the platforms also incorporate advanced cloud services to ensure seamless performance and scalability.
 
 # Technologies used
-• Frontend : HTML, CSS, Bootstrap, & Java Script
+Frontend : HTML, CSS, Bootstrap, & Java Script
 
-Cloud services
+Cloud services: 
 • Static Web App Service: For hosting and serving the web application
 • Monitor: For tracking and analysing the performance and usage of the application.
 • Ai Services: For enhancing the user experience with features like personalized recommendations and voice search.
